@@ -29,6 +29,8 @@ p {
   text-align: justify;
   font-weight: 400;
   color: white;
+  font-stretch: 200%;
+  margin: 30px;
 }
 
 /* Affects the lists */
