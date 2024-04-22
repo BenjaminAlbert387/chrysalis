@@ -11,7 +11,7 @@ h1, h2, h3 {
 
 /* Affects the title */
 h1 {
-  color: dodgerblue;
+  color: cyan;
 }
 
 /* Affects the headings */
@@ -28,17 +28,17 @@ h3 {
 p {
   text-align: justify;
   font-weight: 400;
-  color: midnightblue;
+  color: white;
 }
 
 /* Affects the lists */
 ul {
     text-align: justify;
     font-weight: 400;
-    color: midnightblue;
+    color: white;
 }
 
 /* Background colour */
 body {
-  background-color: beige;
+  background-color: darkslategray;
 }
