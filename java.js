@@ -1,6 +1,6 @@
 function ButtonFunction()
 {
-  window.location.href = "FreshersWeek.html"
+  window.location.href = "Webpages/FreshersWeek.html"
 }
 
 function ReturnBackFunction()
