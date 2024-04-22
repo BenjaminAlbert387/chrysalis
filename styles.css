@@ -40,6 +40,11 @@ ul {
     color: white;
 }
 
+/* Affects whitespace */
+div {
+  white-space: pre-line;
+}
+
 /* Background colour */
 body {
   background-color: darkslategray;
