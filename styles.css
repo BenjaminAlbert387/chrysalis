@@ -16,7 +16,7 @@ h1 {
 
 /* Affects the headings */
 h2 {
-  color: deeppink;
+  color: magenta;
 }
 
 /* Affects the sub-headings */
@@ -24,7 +24,7 @@ h3 {
   color: darkmagenta;
 }
 
-/* Affects the text and links */
+/* Affects the paragraph text */
 p {
   text-align: justify;
   font-weight: 400;
@@ -38,11 +38,6 @@ ul {
     text-align: justify;
     font-weight: 400;
     color: white;
-}
-
-/* Affects whitespace */
-div {
-  white-space: pre-line;
 }
 
 /* Background colour */
