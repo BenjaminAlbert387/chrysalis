@@ -1,4 +1,4 @@
 function ButtonFunction()
 {
-  window.location.href = "FirstPage.html"
+  window.location.href = "FreshersWeek.html"
 }
