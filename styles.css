@@ -45,7 +45,9 @@ body {
   background-color: darkslategray;
 }
 
-.button {
-  width: 50%
-  font-size: 24px
+/* Button */
+button {
+  width: 50%;
+  font-size: 24px;
+  background-color: #04AA6D; 
 }
