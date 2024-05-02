@@ -46,8 +46,8 @@ body {
 }
 
 /* Button */
-button {
+.button {
   width: 50%;
   font-size: 24px;
-  background-color: #04AA6D; 
+  background-color: cyan; 
 }
