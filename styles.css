@@ -44,3 +44,8 @@ ul {
 body {
   background-color: darkslategray;
 }
+
+.button {
+  width: 50%
+  font-size: 24px
+}
