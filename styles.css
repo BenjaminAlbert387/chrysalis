@@ -17,6 +17,7 @@ h1 {
 /* Affects the headings */
 h2 {
   color: magenta;
+  text-align: center;
 }
 
 /* Affects the sub-headings */
@@ -47,9 +48,9 @@ body {
 
 /* Button */
 .button {
-  width: 75%;
+  width: 100%;
   font-size: 24px;
   background-color: cyan;
   color: black;
-  padding: 100px;
+  padding: 50px;
 }
