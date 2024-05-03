@@ -13,6 +13,11 @@ function Week10Button()
   window.location.href = "Week10.html"
 }
 
+function Week10Button()
+{
+  window.location.href = "Week11.html"
+}
+
 function ReturnBackFunction()
 {
   window.location.href = "index.html"
