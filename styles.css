@@ -4,7 +4,7 @@
 }
 
 /* Affects all the headings */
-h1, h2, h3 {
+h1, h2 {
   text-align: justify;
   font-weight: 500;
 }
@@ -16,7 +16,7 @@ h1 {
 
 /* Affects the headings */
 h2 {
-  color: deeppink;
+  color: lightpink;
   text-align: center;
 }
 
