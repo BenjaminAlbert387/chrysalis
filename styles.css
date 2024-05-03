@@ -50,10 +50,5 @@ body {
   width: 50%;
   font-size: 24px;
   background-color: cyan;
-  text-color: black;
-}
-
-/* Divider */
-.divider {
-    width:5px;
+  color: black;
 }
