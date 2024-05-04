@@ -43,11 +43,22 @@ body {
 
 /* Button */
 .button {
-  width: 100%;
+  
+  /* Center placement */
+  width: 70%;
+  display: block;
+  margin: auto;
+  
   font-size: 24px;
+
+  /* Visuals */
   background-color: cyan;
   color: black;
-  padding: 35px;
+
+  /* Gap between buttons */
+  padding: 30px;
+
+  /* Button border */
   border-style: solid;
   border-width: 3px;
   border-color: black;
