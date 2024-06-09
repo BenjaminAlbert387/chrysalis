@@ -108,9 +108,19 @@ function Week35Button()
   window.location.href = "Week35.html"
 }
 
-function Week36Button()
+function Week38Button()
 {
-  window.location.href = "Week36.html"
+  window.location.href = "Week38.html"
+}
+
+function Week39Button()
+{
+  window.location.href = "Week39.html"
+}
+
+function Week40utton()
+{
+  window.location.href = "Week40.html"
 }
 
 function ReturnBackFunction()
