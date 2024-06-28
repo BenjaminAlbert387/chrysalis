@@ -1,6 +1,6 @@
 function ReturnBackFunction()
 {
-  window.location.href = "../index.html"
+  window.location.href = "chrysalis/index.html"
 }
 
 function Hours16Button()
