@@ -1,4 +1,4 @@
 function ReturnBackFunction()
 {
-  window.location.href = "/index.html"
+  window.location.href = "../index.html"
 }
