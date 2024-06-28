@@ -1,6 +1,6 @@
 function ReturnBackFunction()
 {
-  window.location.href = "chrysalis/index.html"
+  window.location.href = "../index.html"
 }
 
 function ReturnDrivingFunction()
