@@ -123,6 +123,11 @@ function Week40Button()
   window.location.href = "Week40.html"
 }
 
+function AboutDrivingButton()
+{
+  window.location.href = "driving/about.html"
+}
+
 function ReturnBackFunction()
 {
   window.location.href = "index.html"
