@@ -123,6 +123,21 @@ function Week40Button()
   window.location.href = "Week40.html"
 }
 
+function ExtraStage1Button()
+{
+  window.location.href = "ExtraStage1.html"
+}
+
+function ExtraStage2Button()
+{
+  window.location.href = "ExtraStage2.html"
+}
+
+function ExtraStage3Button()
+{
+  window.location.href = "ExtraStage3.html"
+}
+
 function AboutDrivingButton()
 {
   window.location.href = "driving/about.html"
