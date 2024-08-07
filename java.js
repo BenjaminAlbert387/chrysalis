@@ -143,6 +143,11 @@ function AboutDrivingButton()
   window.location.href = "driving/about.html"
 }
 
+function Year2Button()
+{
+  window.location.href = "year2/about.html"
+}
+
 function ReturnBackFunction()
 {
   window.location.href = "index.html"
