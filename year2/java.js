@@ -1,3 +1,8 @@
+function Y2Week8Button()
+{
+  window.location.href = "Y2Week8.html"
+}
+
 function Y2Week9Button()
 {
   window.location.href = "Y2Week9.html"
