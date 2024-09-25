@@ -127,3 +127,9 @@ function ReturnBackFunction()
 {
   window.location.href = "../index.html"
 }
+
+function ReturnPreviousFunction()
+{
+  window.location.href = "about.html"
+}
+
